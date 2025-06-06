@@ -43,12 +43,3 @@ Uma Pokédex gráfica feita em Python usando Tkinter, exibindo informações, st
      ```
      python main.py
      ```
-
-## Créditos
-
-- Projeto desenvolvido por [Seu Nome]
-- Imagens dos Pokémons: [Pokémon Company/Nintendo]
-
-## Licença
-
-Este projeto é apenas para fins educacionais.
