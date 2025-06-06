@@ -1,6 +1,6 @@
 # Pokédex em Python
 
-Uma Pokédex gráfica feita em Python usando Tkinter, exibindo informações, status e habilidades de vários Pokémons clássicos.
+Uma Pokédex gráfica feita em Python usando Tkinter, exibindo informações, status e habilidades de vários Pokémons clássicos. Mostrando que o Python também pode ser utilizado para a criação de interfaces.
 
 ## Funcionalidades
 
